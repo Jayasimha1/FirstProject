@@ -6,6 +6,7 @@ public class InterfaceDifferent {
 
     }
 }
+// this is the chnaGE
 
 interface InterfaceX {
     public String job();
